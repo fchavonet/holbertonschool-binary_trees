@@ -1,8 +1,3 @@
-<p align="center">
-	<img src="https://apply.holbertonschool.com/holberton-logo.png">
-	<br>
-	<img src="https://readme-typing-svg.herokuapp.com?font=Open+Sans&weight=900&pause=1000&color=1D5ABD&center=true&vCenter=true&width=500&lines=LOW+LEVEL+PROGRAMMING+PROJECT+IN+C" alt="Typing SVG" />
-</p>
+<img  height="50px" align="right" src="https://apply.holbertonschool.com/holberton-logo.png">
 
-#
-# <p align="center">C - Binary Trees</p>
+# C - Binary Trees
